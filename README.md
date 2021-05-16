@@ -8,7 +8,7 @@ I am actively looking forward for the opportunity to contribute in the related p
 Apart from that, I also solve algorithmic programming problems.
 
 ### Regarding the Github account
-I will be using my github account to archive my mini-projects and practical course assignments.
+I will be using my github account to archive my mini-projects and interesting practical course assignments.
 
 
 <!---
